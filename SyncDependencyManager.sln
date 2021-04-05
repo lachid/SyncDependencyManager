@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SyncDependencyManager", "Sy
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SyncDependencyManager.Tests", "SyncDependencyManager.Tests\SyncDependencyManager.Tests.csproj", "{0B03F05B-5FCE-447F-97E8-D14484C3BE7F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SyncDependencyManager.EntityFrameworkCore", "SyncDependencyManager.EntityFrameworkCore\SyncDependencyManager.EntityFrameworkCore.csproj", "{2F254722-EA35-486F-B3D8-EFC3459FC72C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{0B03F05B-5FCE-447F-97E8-D14484C3BE7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B03F05B-5FCE-447F-97E8-D14484C3BE7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B03F05B-5FCE-447F-97E8-D14484C3BE7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F254722-EA35-486F-B3D8-EFC3459FC72C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F254722-EA35-486F-B3D8-EFC3459FC72C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F254722-EA35-486F-B3D8-EFC3459FC72C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F254722-EA35-486F-B3D8-EFC3459FC72C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
